@@ -13,5 +13,7 @@ public class Autotest {
         auto3.start();
         auto3.geefGas();
         auto3.geefGas();
+        auto3.stop();
+        System.out.println(auto3.getKilometerStand());
     }
 }

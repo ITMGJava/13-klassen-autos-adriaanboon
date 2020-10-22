@@ -22,7 +22,7 @@ public class Auto {
         snelheid+=20;
         kilometerstand+=20;
         System.out.print(snelheid);
-        System.out.println(" en heeft in totaal "+kilometerstand+ " gereden.");
+        System.out.println(" en heeft in totaal "+kilometerstand+ " km gereden.");
     }
     public String getMerk() {
         return merk;
